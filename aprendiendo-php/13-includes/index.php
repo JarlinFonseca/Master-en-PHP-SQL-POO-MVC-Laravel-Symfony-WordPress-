@@ -1,4 +1,6 @@
-<?php include './includes/cabecera.php';?>
+<?php require './includes/cabecera.php';?>
+<!--include_once
+require_once-->
         <!--Contenido-->
         <div>
             <h2>Esta es la página de inicio</h2>
