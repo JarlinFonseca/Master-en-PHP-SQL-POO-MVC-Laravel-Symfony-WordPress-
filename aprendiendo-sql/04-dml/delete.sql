@@ -1,0 +1,2 @@
+# BORRAR REGISTROS#
+DELETE FROM USUARIOS WHERE email='admin@admin.com';
